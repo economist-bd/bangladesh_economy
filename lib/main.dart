@@ -45,7 +45,7 @@ class _bangladesheconomyWebViewState extends State<bangladesheconomyWebView> {
       // ====================================================
       // নিচে আপনার ওয়েবসাইটের লিংকটি বসান
       // ====================================================
-      ..loadRequest(Uri.parse('https://bangladesh-economy.netlify.app')); 
+      ..loadRequest(Uri.parse('https://economist-bd.github.io/bangladesh-economy')); 
   }
 
   @override
